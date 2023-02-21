@@ -1,8 +1,7 @@
 imutils
 numpy
-argparse
-cv2
-skimage
+scikit-image
 matplotlib
-PIL
 pandas
+opencv-python
+Pillow
