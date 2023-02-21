@@ -1,0 +1,8 @@
+imutils
+numpy
+argparse
+cv2
+skimage
+matplotlib
+PIL
+pandas
