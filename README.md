@@ -4,6 +4,7 @@ Leaf area is an important morphological metric than can be useful for comparing 
 process, it is also hands on, time-consuming and error prone using modern techniques. To address this issue we have developed an image processing pipeline that allows researchers to take photos of all leaves for which an area is needed, then automatically calculate an accurate leaf area for all leaves.
 
 __Input:__ Photo(s) of any leaf on reference paper, with (optional) bubble annotation; no limit to number of photos
+
 __Output:__ Data table containing ID info for each leaf and leaf area
 
 ## Citing this repository
