@@ -1,7 +1,7 @@
 # A versatile tool to rapidly process and analyze leaf photos
 
-Leaf area is an important morphological metric than can be useful for comparing plants, understanding their growth over time and for calculating things like ET. While measuring leaf area is a rather straightforward
-process, it is also hands on, time-consuming and error prone using modern techniques. To address this issue we have developed an image processing pipeline that allows researchers to take photos of all leaves for which an area is needed, then automatically calculate an accurate leaf area for all leaves.
+Leaf area is an important morphological metric than can be useful for comparing plants, phenotyping, understanding growth over time and for calculating things like ET. While measuring leaf area is a rather straightforward
+process, it is also hands on, time-consuming and error prone using modern techniques. To address this issue we have developed an image processing pipeline that allows researchers to take photos of all leaves for which an area is needed, then automatically calculate an accurate leaf area for all leaves. What once took days or weeks of manual labor, now takes minutes or hours.
 
 __Input:__ Photo(s) of any leaf on reference paper, with (optional) bubble annotation; no limit to number of photos
 
