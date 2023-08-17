@@ -13,16 +13,20 @@ CSV data table containing ID info for each leaf and leaf area
 
 ## Recommended installation process
 
-Clone the repository using `git`
+Clone the repository to your local system using `git`, in `terminal` (macOS and Linux) or `cmd` (Windows):
    ```commandline
    git clone https://github.com/mattjenkins3/Automated-Leaf-Area-Detection.git
    ```
   Replace 'main' with any branch you'd like to clone.
+  
+  __Pro tip:__ We recommend navigating to the directory where you'd like to store this software before cloning.
 
 ## Using software
 ### 1. Create a virtual environment
   
   **Note**: first [Install virtualenv](https://virtualenv.pypa.io/en/latest/installation.html) if not already installed
+
+Navigate to the root directory 'Automated-Leaf-Area-Detection/' of the cloned repository.
 
 Use the following commands to create a new virtual environment and then activate it:  
 
@@ -67,7 +71,7 @@ To cite this repository:
   author = {Matthew Jenkins, Dylan Lenczewski-Jowers, Fabiola Chavez Lamas},
   title = {{Leaf Area Detect}: Automated Leaf Area Tool},
   url = {https://github.com/mattjenkins3/Automated-Leaf-Area-Detection.git},
-  version = {0.1.0},
-  year = {2022},
+  version = {0.1.4},
+  year = {2023},
 }
 ```
