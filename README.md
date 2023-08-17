@@ -17,7 +17,6 @@ Clone the repository to your local system using `git`, in `terminal` (macOS and 
    ```commandline
    git clone https://github.com/mattjenkins3/Automated-Leaf-Area-Detection.git
    ```
-  Replace 'main' with any branch you'd like to clone.
   
   __Pro tip:__ We recommend navigating to the directory where you'd like to store this software before cloning.
 
